@@ -1,0 +1,15 @@
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/bin/Debug/net5.0/Kosmelita.deps.json
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/bin/Debug/net5.0/Kosmelita.runtimeconfig.json
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/bin/Debug/net5.0/Kosmelita.runtimeconfig.dev.json
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/bin/Debug/net5.0/Kosmelita.dll
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/bin/Debug/net5.0/ref/Kosmelita.dll
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/bin/Debug/net5.0/Kosmelita.pdb
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.csprojAssemblyReference.cache
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.AssemblyInfoInputs.cache
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.AssemblyInfo.cs
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.csproj.CoreCompileInputs.cache
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.dll
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/ref/Kosmelita.dll
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.pdb
+/Users/justinasbaltrusaitis/Desktop/work stuff/Kosmelita/obj/Debug/net5.0/Kosmelita.genruntimeconfig.cache
